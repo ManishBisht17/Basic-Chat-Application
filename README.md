@@ -1,4 +1,6 @@
 # Real-Time Chat Application
+# You can contribute in this project 
+
 
 This is a simple real-time chat application built using **Node.js, Express, and Socket.io**. It allows multiple users to send and receive messages in real time.
 
